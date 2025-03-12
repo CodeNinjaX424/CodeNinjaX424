@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻 **Web Developer | Open-Source Enthusiast | Tech Explorer**  
-📍 Somewhere in Florida, USA 🌴  
+📍 Florida, USA 🌴  
 
 🚀 **About Me:**  
 - Passionate about **React, Node.js, and Python**  
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+<!-- 📊 **GitHub Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)   -->
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
