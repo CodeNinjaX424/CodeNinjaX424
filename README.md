@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 **Web Developer | Open-Source Enthusiast | Tech Explorer**  
+💻 **Senior Frontend Engineer | Open-Source Enthusiast | Tech Explorer**  
 📍 Florida, USA 🌴  
 
 🚀 **About Me:**  
